@@ -2,23 +2,24 @@
 Repositorio de CodigoOriental
 
 Sistema de Gestión Documental
-Proyecto desarrollado para UTU.
+Proyecto desarrollado para UTU Arroyo Seco.
 
-Tecnologías
-HTML
-CSS
-Bootstrap 5.3
-PHP
-MySQL
+Tecnologías:
+- HTML
+- CSS
+- Bootstrap 5.3
+- PHP
+- MySQL
 
-Instalación
-Descargar el proyecto.
-Copiarlo en la carpeta htdocs de XAMPP.
-Iniciar Apache y MySQL.
-Abrir localhost en el navegador.
+Instalación:
+- Descargar el proyecto.
+- Importar la base de datos en PHP
+- Copiar la carpeta "Hospital" en la carpeta htdocs de XAMPP.
+- Iniciar Apache y MySQL.
+- Abrir localhost en el navegador.
 
-Integrantes
-Nicolas Mendoza
-Facundo Bollini
-Nahuel Tercia
-Esteban Beron
+Integrantes:
+- Nahuel Tercia
+- Nicolas Mendoza
+- Facundo Bollini
+- Esteban Beron
