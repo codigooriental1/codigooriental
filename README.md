@@ -13,7 +13,7 @@ Tecnologías:
 
 Instalación:
 - Descargar el proyecto.
-- Importar la base de datos en PHP
+- Importar la base de datos en PHP con el nombre hospital_db
 - Copiar la carpeta "Hospital" en la carpeta htdocs de XAMPP.
 - Iniciar Apache y MySQL.
 - Abrir localhost en el navegador.
