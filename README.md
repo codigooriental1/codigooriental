@@ -18,7 +18,7 @@ Sistema de Gestión Documental y Servicios Médicos (S.I.G.S.M.) desarrollado pa
 * Importar la base de datos en PHPMyAdmin con el nombre `hospital_db`.
 * Copiar la carpeta "Hospital" en la carpeta `htdocs` de XAMPP.
 * Iniciar Apache y MySQL.
-* Abrir `localhost/Hospital` en el navegador.
+* Abrir `localhost/Hospital/index.php` en el navegador.
 
 ## Cuentas de Prueba:
 
